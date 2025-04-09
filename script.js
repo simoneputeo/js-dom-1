@@ -1,4 +1,4 @@
-const lightSwitch = document.getElementById("accendi");
+const lightSwitch = document.getElementById("switch");
 const lightBulb0 = document.getElementById("lightoff");
 const lightBulb1 = document.getElementById("lighton");
 
